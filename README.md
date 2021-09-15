@@ -2,7 +2,7 @@
 This repository contains the implementation of our pruning methodology, named PCA+DIRIE, on top of the ResNet-50 and Transformer DNNs from the Tensorflow Model Garden [[1]](#1).
 
 # Running:
-All the required scripts for training a baseline model, performing the pruning, and finally the retraining are included in the correspoding "scripts" fodler of each model.
+All the required scripts for training a baseline model, performing the pruning, and finally the retraining, are included in the corresponding "scripts" folder of each model.
 
 # Related References:
 <a id="1">[1]</a> 
